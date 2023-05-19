@@ -1,3 +1,4 @@
+#This file compares the estimator propoperties of mean absolute deviation with the estimator properties of mean squared deviation. 
 
 #When thinking about measuring deviation, two simple rules are either mean absolute deviation or mean of squared deviations. Today, we largely rely upon the mean of squared deviations.  
 
